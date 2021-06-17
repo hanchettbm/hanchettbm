@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hanchettbm
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on cybersecurity.
-- 📫 How to reach me: han17069@byui.edu
+-Hi, I’m Baden Hanchett
+-I’m interested in software engineering.
+-I’m currently learning python.
+-I’m looking to collaborate on cybersecurity.
+-How to reach me: han17069@byui.edu
 
 <!---
 hanchettbm/hanchettbm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
